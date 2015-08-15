@@ -1,0 +1,24 @@
+{
+  "name": "waitingList",
+  "version": "1.0.0",
+  "authors": [
+    "Damarus <damarus1330@gmail.com>"
+  ],
+  "description": "Permet de creer une file d'attente",
+  "main": "waitingLoad.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "waiting",
+    "list",
+    "ajax"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

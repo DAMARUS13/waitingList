@@ -1,0 +1,8 @@
+._*
+.cache
+.DS_Store
+.idea
+
+# Folders to ignore
+bower_components
+node_modules
